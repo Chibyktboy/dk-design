@@ -150,6 +150,7 @@ footer{
 @media (max-width: 767px) {
     h1 {
         font-size: 24px;
+        font-weight: 400;
     
     }
 
@@ -158,4 +159,30 @@ footer{
         word-spacing: 3px;
     }
   
+    #about{
+
+        width: 90vw;
+        padding: 10px;
+        margin: 15px;
+
+    }
+
+    #contact {
+        width: 90vw;
+        padding: 10px;
+        margin: 15px;
+
+    }
+
+    #services{
+        width: 90vw;
+        padding: 10px;
+        margin: 15px;
+    }
+
+    #locate{
+        width: 90vw;
+        padding: 10px;
+        margin: 15px;
+    }
 }
